@@ -1,0 +1,16 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+:root {
+    /*Custom color found from using the University colors*/
+    --custom-color: #8B1A2B;
+}
